@@ -1,0 +1,44 @@
+body
+{
+    background-image: url(../fondo.jpg);
+    background-size: cover;
+    background-position: right top;
+    background-attachment: fixed;
+}
+.formulario
+{
+    background-color: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    width: 50%;
+    margin-left: 25%
+}
+h2
+{
+    width: 60%;
+  margin-left: 20%;
+}
+label
+{
+     width: 60%;
+  margin-left: 20%;
+  font-weight: bold;
+}
+input
+{
+     width: 60%;
+  margin-left: 20%;
+}
+button
+{
+    margin-left: 40%;
+}
+boton
+{
+    border-top: 1px solid rgba(0, 0, 0, 0.2);
+}
+.agregar
+{
+    margin-top: 10px;
+    margin-bottom: 15px;
+}

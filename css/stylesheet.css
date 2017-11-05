@@ -1,0 +1,49 @@
+body{
+    
+    background-image: url(fondo%20111.jpg);
+    background-size: 100%;
+    background-repeat:  no-repeat;
+    background-attachment: fixed;
+}
+img{
+    width: 20%;
+    height: auto;
+    margin: auto;
+    display: block;
+    
+    
+}
+body{margin:0;
+    font-family: sans-serif;
+    font-size:14px;
+}
+
+#menu, li ul{
+    background: black;
+}
+
+
+#hmenu {
+    width: 422px;
+    margin: 0 auto;
+}
+#hmenu a{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+}
+#hmenu li:hover{
+    background: black;
+    text-shadow: 0 0 2px white;
+}
+#hmenu > li{
+    display: inline-block;
+}
+#hmenu > li > a{
+    display: block;
+    padding: 25px 5px;
+    width: 100px;
+}
+li ul{
+    position: relative;
+}
